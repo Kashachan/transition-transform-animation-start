@@ -171,8 +171,8 @@
 	animation-name: moveAround;
 	animation-duration: 4s;
 	animation-iteration-count: 3;
-	animation-direction: reverse;
-	animation-direction: alternate;
+	/* animation-direction: reverse;
+	animation-direction: alternate; */
 }
 
 @keyframes transformMe {
